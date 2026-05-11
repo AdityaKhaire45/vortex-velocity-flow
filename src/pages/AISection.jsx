@@ -4,7 +4,7 @@ import * as Icons from 'lucide-react';
 import aiNeuralImg from '../assets/ai_neural_network_dark_blue.jpg';
 import cockpitImg from '../assets/futuristic_cockpit_dark_cinematic.jpg';
 import aeroLabImg from '../assets/aerospace_engineering_lab_dark.jpg';
-import { AnimatePresence } from 'framer-motion';
+
 
 const AI_CAPABILITIES = [
   {
